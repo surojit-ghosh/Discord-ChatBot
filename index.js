@@ -21,7 +21,7 @@ commands.forEach((file) => {
         if (!cmd.run) return console.log(chalk.redBright(`Unable to load - ${file}! For support join - https://discord.gg/bN6ACTdWTY`));
         else {
             client.commands.set(cmd.name, cmd);
-            console.log(chalk.greenBright('Successfully loaded - ' + file));
+            console.log(chalk.greenBright('Successfully loaded command - ' + file));
         }
         if (cmd.aliases && Array.isArray(cmd.aliases)) cmd.aliases.forEach((alias) => client.aliases.set(alias, cmd.name));
     });
