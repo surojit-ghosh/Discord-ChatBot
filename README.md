@@ -1,58 +1,21 @@
-<h1 align="center">Angular - The modern web developer's platform.</h1>
+<h1 align="center">Chatbot for Discord Servers</h1>
+<p align="center">This is an open source a chat bot for discord servers. This bot is using Discord.js v13 and <a href="https://brainshop.ai">Brainshop</a></p>
+  
+<br>
+  
+# To host this bot you need to follow this steps given below
 
-<p align="center">
-  <img src="aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
-  <br>
-  <i>Angular is a development platform for building mobile and desktop web applications
-    <br> using Typescript/JavaScript and other languages.</i>
-  <br>
-</p>
+## Step 1
 
-<p align="center">
-  <a href="https://www.angular.io"><strong>www.angular.io</strong></a>
-  <br>
-</p>
+Star this repo 😁
 
-<p align="center">
-  <a href="CONTRIBUTING.md">Contributing Guidelines</a>
-  ·
-  <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
-  ·
-  <a href="https://blog.angular.io/">Blog</a>
-  <br>
-  <br>
-</p>
+## Step 2
+  
+Go to <a href="https://replit.com/">Replit</a> and create an account. If you already have an account then follow from Step 2.
+  
+## Step 3
 
-<p align="center">
-  <a href="https://circleci.com/gh/angular/workflows/angular/tree/master">
-    <img src="https://img.shields.io/circleci/build/github/angular/angular/master.svg?logo=circleci&logoColor=fff&label=CircleCI" alt="CI status" />
-  </a>&nbsp;
-  <a href="https://www.npmjs.com/@angular/core">
-    <img src="https://img.shields.io/npm/v/@angular/core.svg?logo=npm&logoColor=fff&label=NPM+package&color=limegreen" alt="Angular on npm" />
-  </a>&nbsp;
-  <a href="https://discord.gg/angular">
-    <img src="https://img.shields.io/discord/463752820026376202.svg?logo=discord&logoColor=fff&label=Discord&color=7389d8" alt="Discord conversation" />
-  </a>
-</p>
-
-<hr>
-
-## Documentation
-
-Get started with Angular, learn the fundamentals and explore advanced topics on our documentation website.
-
-- [Getting Started][quickstart]
-- [Architecture][architecture]
-- [Components and Templates][componentstemplates]
-- [Forms][forms]
-- [API][api]
-
-### Advanced
-
-- [Angular Elements][angularelements]
-- [Server Side Rendering][ssr]
-- [Schematics][schematics]
-- [Lazy Loading][lazyloading]
+Create a Node.js repl
 
 ## Development Setup
 
