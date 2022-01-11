@@ -33,7 +33,7 @@ client.on('ready', async () => {
 
 client.on('messageCreate', async (message) => {
     if (message.author.bot || !message.guild || message.webhookId) return;
-    const channel = await db.get(`channel_${message.guild.id}`);
+    let channel = await db.get(`channel_${message.guild.id}`);
     if (!message.content.startsWith(config.prefix) && channel && message.channel.id == channel) await AIchat(message);
     if (!message.content.startsWith(config.prefix)) return;
     if (!message.member) message.member = await message.guild.members.fetch(message);
@@ -44,7 +44,6 @@ client.on('messageCreate', async (message) => {
     let command = client.commands.get(cmd);
     if (!command) command = client.commands.get(client.aliases.get(cmd));
     if (!command) return;
-
     if (command) command.run(client, message, args);
 });
 

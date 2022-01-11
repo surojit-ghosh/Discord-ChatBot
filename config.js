@@ -3,5 +3,5 @@ dotenv.config();
 
 export default {
     token: process.env.token || '',
-    prefix: '>'
+    prefix: 'PREFIX'
 }

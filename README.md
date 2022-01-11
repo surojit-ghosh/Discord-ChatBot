@@ -1,1 +1,1 @@
-# Discord-Chatbot
+ <h1 align="center">Discod Chatbot</h1>
