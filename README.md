@@ -5,19 +5,21 @@
   
 # To host this bot you need to follow this steps given below
 
-## Step 1
+### Step 1
 
-Star this repo 😁
+Make sure to star this repo 😁
 
-## Step 2
+### Step 2
   
-Go to <a href="https://replit.com/">Replit</a> and create an account. If you already have an account then follow from Step 2.
+Go to <a href="https://replit.com/">Replit</a> and create an account and create a Node.js repl. If you already have an account then simply create a Node.js repl
   
-## Step 3
+### Step 3
 
 Create a Node.js repl
 
-## Development Setup
+### Step 3
+
+As we know Discord.js v13 requires Node.js version 16.6 or newer so we will update repl's Node version
 
 ### Prerequisites
 
