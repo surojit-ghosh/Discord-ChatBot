@@ -18,5 +18,8 @@
     "express": "^4.17.2",
     "fs": "^0.0.1-security",
     "quick.db": "^7.1.3"
+  },
+  "devDependencies": {
+    "node": "^16.6.0"
   }
 }
