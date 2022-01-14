@@ -15,4 +15,8 @@ You can watch the Youtube video tutorial by clicking on the image down below
 
 ```
 npm i --save-dev node@16.6.0 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> b562ac4a2b3879be0f852b999e64b215ed8f6686
