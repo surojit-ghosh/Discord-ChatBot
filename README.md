@@ -9,7 +9,7 @@ You can watch the Youtube video tutorial by clicking on the image down below
 
 ## Important Links
 - [Run it on Repl](https://discord.gg/UAvub8rF6W)
-- [Support Server](https://discord.gg/UAvub8rF6W)
+- [Support Server](https://discord.gg/JhgBEp6kAg)
 
 ### Command to update repl node version 
 
