@@ -5,7 +5,7 @@
 
 You can watch the Youtube video tutorial by clicking on the image down below
 
-[![Advanced Discord Music Bot with Web Dashboard | Spotify Support](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ)
+[![Advanced Discord Music Bot with Web Dashboard | Spotify Support](https://cdn.discordapp.com/attachments/926848464472649758/934710124432490516/thumnail-chatbot.png)](https://youtu.be/dQw4w9WgXcQ)
 
 ## Important Links
 - [Run it on Repl](https://discord.gg/UAvub8rF6W)
