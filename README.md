@@ -1,5 +1,5 @@
 <h1 align="center">Discord Chat Bot</h1>
-<p>This is an open source a chat bot for discord servers. This bot is using <a href="https://www.npmjs.com/package/discord.js">Discord.js v13</a> and <a href="https://brainshop.ai">Brainshop</a>. Give this repo a ⭐ if you like it</p>
+<p>This is an open source a chat bot for discord servers. This bot is using <a target="_blank" href="https://www.npmjs.com/package/discord.js">Discord.js v13</a> and <a href="https://brainshop.ai">Brainshop</a>. Give this repo a ⭐ if you like it</p>
 
 ## YouTube Tutorial
 
