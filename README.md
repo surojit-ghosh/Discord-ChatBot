@@ -8,7 +8,7 @@ You can watch the Youtube video tutorial by clicking on the image down below
 [![Advanced Discord Music Bot with Web Dashboard | Spotify Support](https://cdn.discordapp.com/attachments/926848464472649758/934710124432490516/thumnail-chatbot.png)](https://youtu.be/dQw4w9WgXcQ)
 
 ## Important Links
-- [Run it on Repl](https://discord.gg/UAvub8rF6W)
+- [Run it on Repl](https://replit.com/github/AmJit/Discord-ChatBot)
 - [Support Server](https://discord.gg/JhgBEp6kAg)
 
 ### Command to update repl node version 
